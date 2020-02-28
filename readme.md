@@ -1,4 +1,4 @@
 # Sales dataset
 From UCI Online Retail Dataset.
 
-Cohort analysis as per requested by an Upwork Client.
+Cohort analysis as per requested by an Upwork Client, based on datacamp tutorial.
